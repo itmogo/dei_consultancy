@@ -1045,8 +1045,8 @@ h5,
 
 //PROJECT
 .project {
-  width: 100%;
-  height: 285px;
+  width: 50%;
+  height: 250px;
   margin-bottom: 30px;
   position: relative;
   z-index: 0;
@@ -2021,27 +2021,27 @@ textarea.form-control {
 }
 
 // top button icon
-#myBtn {
-  display: none;
+// #myBtn {
+//   display: none;
 
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: pink;
-  color: white;
-  cursor: pointer;
-  padding: 10px;
-  border-radius: 4px;
+//   right: 30px;
+//   z-index: 99;
+//   font-size: 18px;
+//   border: none;
+//   outline: none;
+//   background-color: pink;
+//   color: white;
+//   cursor: pointer;
+//   padding: 10px;
+//   border-radius: 4px;
+// }
+
+// #myBtn:hover {
+//   background-color: rgb(253, 143, 17);
 }
 
-#myBtn:hover {
-  background-color: rgb(253, 143, 17);
-}
-
-i > .icon {
-  padding-left: 50px;
-  position: relative;
-  position: center;
-}
+// i > .icon {
+//   padding-left: 50px;
+//   position: relative;
+//   position: center;
+// }
